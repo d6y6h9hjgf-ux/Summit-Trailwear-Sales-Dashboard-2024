@@ -1,4 +1,3 @@
-# Summit-Trailwear-Sales-Dashboard---2024
 # Summit Trailwear Sales Dashboard — 2024
 
 A Power BI sales dashboard analyzing a full year of apparel retail transactions across three stores, built to highlight seasonal trends, store performance, and product category insights.
@@ -33,7 +32,12 @@ Outerwear, Knitwear, Tops, Bottoms, Dresses, Footwear, Accessories, Activewear, 
 
 ## 📷 Screenshots
 
-**
+**PAGE 1 - OVERVIEW**
+<img width="2038" height="1144" alt="image" src="https://github.com/user-attachments/assets/4c23b2cb-3ce4-4ac4-a7fe-8305ca6c809e" />
+
+**PAGE 2 - PRODUCT PERFORMANCE**
+<img width="2038" height="1148" alt="image" src="https://github.com/user-attachments/assets/45653d3d-f102-477f-bcb8-761f2d9a2295" />
+
 
 ## 📂 Files
 
