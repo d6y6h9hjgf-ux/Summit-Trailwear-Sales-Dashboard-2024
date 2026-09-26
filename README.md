@@ -6,7 +6,7 @@ A Power BI sales dashboard analyzing a full year of apparel retail transactions 
 
 This project simulates one year (Jan 1 – Dec 31, 2024) of sales data for Summit Trailwear, an apparel retailer with three stores in climate-contrasting locations: Denver, Austin, and Seattle. The dataset includes roughly 53,225 transactions across 85 unique products in 9 categories, with realistic shopping patterns like weekday after-work peaks and shorter Sunday hours.
 
-## 🏬 Stores
+##  Stores
 
 - **Denver**
 - **Austin**
