@@ -49,8 +49,3 @@ Outerwear, Knitwear, Tops, Bottoms, Dresses, Footwear, Accessories, Activewear, 
 ## 📂 Files
 
 - [Summit Trailwear Sales Dashboard.pbix](Summit%20Trailwear%20Sales%20Dashboard.pbix) — the full Power BI report file
-
-## 🚀 How to View
-
-1. Download the `.pbix` file
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
