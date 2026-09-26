@@ -48,4 +48,4 @@ Outerwear, Knitwear, Tops, Bottoms, Dresses, Footwear, Accessories, Activewear, 
 
 ## 📂 Files
 
-- [Summit Trailwear Sales Dashboard.pbix](Summit%20Trailwear%20Sales%20Dashboard.pbix) — the full Power BI report file
+—[Summit Trailwear Sales Dashboard - 2024.pbix](Summit%20Trailwear%20Sales%20Dashboard%20-%202024.pbix) - the full Power BI report file
