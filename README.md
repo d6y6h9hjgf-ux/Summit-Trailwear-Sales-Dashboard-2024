@@ -38,6 +38,13 @@ Outerwear, Knitwear, Tops, Bottoms, Dresses, Footwear, Accessories, Activewear, 
 **PAGE 2 - PRODUCT PERFORMANCE**
 <img width="2038" height="1148" alt="image" src="https://github.com/user-attachments/assets/45653d3d-f102-477f-bcb8-761f2d9a2295" />
 
+**PAGE 3 - SHOPPING BEAVIOUR**
+<img width="2038" height="1150" alt="image" src="https://github.com/user-attachments/assets/6cfbbd04-b219-4d98-b493-339ec266ff30" />
+
+**PAGE 4 - SEASONAL TRENDS**
+<img width="2036" height="1146" alt="image" src="https://github.com/user-attachments/assets/6678e528-dd0c-4856-b84f-727c7e36c0ac" />
+
+
 
 ## 📂 Files
 
